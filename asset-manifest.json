@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "https://perxkzy.github.io/csb-yfkltb/static/css/main.f5d83acd.chunk.css",
+    "main.js": "https://perxkzy.github.io/csb-yfkltb/static/js/main.5e8f0167.chunk.js",
+    "main.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/main.5e8f0167.chunk.js.map",
+    "runtime-main.js": "https://perxkzy.github.io/csb-yfkltb/static/js/runtime-main.1673fa09.js",
+    "runtime-main.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/runtime-main.1673fa09.js.map",
+    "static/js/2.318da631.chunk.js": "https://perxkzy.github.io/csb-yfkltb/static/js/2.318da631.chunk.js",
+    "static/js/2.318da631.chunk.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/2.318da631.chunk.js.map",
+    "static/js/3.d51529fe.chunk.js": "https://perxkzy.github.io/csb-yfkltb/static/js/3.d51529fe.chunk.js",
+    "static/js/3.d51529fe.chunk.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/3.d51529fe.chunk.js.map",
+    "static/js/4.55025819.chunk.js": "https://perxkzy.github.io/csb-yfkltb/static/js/4.55025819.chunk.js",
+    "static/js/4.55025819.chunk.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/4.55025819.chunk.js.map",
+    "static/js/5.88300e21.chunk.js": "https://perxkzy.github.io/csb-yfkltb/static/js/5.88300e21.chunk.js",
+    "static/js/5.88300e21.chunk.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/5.88300e21.chunk.js.map",
+    "static/js/6.64b4c129.chunk.js": "https://perxkzy.github.io/csb-yfkltb/static/js/6.64b4c129.chunk.js",
+    "static/js/6.64b4c129.chunk.js.map": "https://perxkzy.github.io/csb-yfkltb/static/js/6.64b4c129.chunk.js.map",
+    "index.html": "https://perxkzy.github.io/csb-yfkltb/index.html",
+    "static/css/main.f5d83acd.chunk.css.map": "https://perxkzy.github.io/csb-yfkltb/static/css/main.f5d83acd.chunk.css.map",
+    "static/js/2.318da631.chunk.js.LICENSE.txt": "https://perxkzy.github.io/csb-yfkltb/static/js/2.318da631.chunk.js.LICENSE.txt",
+    "static/js/5.88300e21.chunk.js.LICENSE.txt": "https://perxkzy.github.io/csb-yfkltb/static/js/5.88300e21.chunk.js.LICENSE.txt",
+    "static/media/icon-laptop.280f1892.svg": "https://perxkzy.github.io/csb-yfkltb/static/media/icon-laptop.280f1892.svg",
+    "static/media/icon-twitter.1f8af10d.svg": "https://perxkzy.github.io/csb-yfkltb/static/media/icon-twitter.1f8af10d.svg",
+    "static/media/icon-youtube.d6990689.svg": "https://perxkzy.github.io/csb-yfkltb/static/media/icon-youtube.d6990689.svg",
+    "static/media/logo.e258c777.svg": "https://perxkzy.github.io/csb-yfkltb/static/media/logo.e258c777.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1673fa09.js",
+    "static/js/2.318da631.chunk.js",
+    "static/css/main.f5d83acd.chunk.css",
+    "static/js/main.5e8f0167.chunk.js"
+  ]
+}
